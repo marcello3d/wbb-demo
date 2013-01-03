@@ -1,9 +1,0 @@
-chapters/01-chapter1.md
-chapters/01-chapter2.md
-chapters/01-chapter3.md
-chapters/01-chapter4.md
-chapters/01-chapter5.md
-chapters/01-chapter6.md
-chapters/01-chapter7.md
-chapters/01-chapter8.md
-chapters/01-chapter9.md

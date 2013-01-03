@@ -1,7 +1,7 @@
 # Web Book Boilerplate (WBB) Demo
 ### This demo uses WBB to compile Scott Chacon's Pro Git book (https://github.com/progit/progit), which is licensed under Creative Commons Attribution-Non Commercial-Share Alike 3.0 license
 
-### If you just want to view the output, check out tspike.github.com/wbb-demo or builds/html/index.html
+### If you just want to view the output, check out http://tspike.github.com/wbb-demo or builds/html/index.html
 
 # Web Book Boilerplate
 ### The easiest way of writing books for the web
